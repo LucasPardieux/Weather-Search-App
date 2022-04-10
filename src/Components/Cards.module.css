@@ -1,0 +1,7 @@
+.cards {
+    position: relative;
+    top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,50 @@
+.container {
+    background-color: rgba(224, 224, 224, 0.7);
+    position: relative;
+    left: 40px;
+    top: 70px;
+    max-width: max-content;
+    max-height: 570px;
+    min-height: min-content;
+    min-width: 90%;
+    padding: 3px;
+    border-radius: 3px;
+    border: 2px inset rgb(163, 163, 163, );
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: 7px 5px 5px black;
+    backdrop-filter: blur(5px);
+}
+
+.flecha{
+    position: relative;
+    left: 500px;
+    width: 250px;
+    height: 200px;
+}
+
+.title{
+    position: relative;
+    bottom: 200px;
+    right: 350px;
+}
+
+.how{
+    position: relative;
+    bottom: 180px;
+    right: 610px; 
+}
+
+.text{
+    text-align: left;
+    position: relative;
+    bottom: 200px;
+    left: 70px; 
+    bottom: 150px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.about{
+    text-decoration: none;
+}

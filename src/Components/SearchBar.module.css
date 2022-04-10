@@ -1,0 +1,27 @@
+.input {
+    position: relative;
+    bottom: 2px;
+    border-radius: 7px;
+    border: 2px solid rgb(186, 105, 0);
+    opacity: 100%;
+    height: 28px;
+    background-color: rgb(197, 197, 197);
+}
+
+.boton {
+    background-color: rgb(83, 83, 83);
+    border: 2px solid rgb(186, 105, 0);
+    height: 35px;
+    border-radius: 10px;
+    margin: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(186, 105, 0);
+    opacity: 100%;
+    font-size: 16px;
+}
+
+.boton:hover {
+    background-color: rgb(186, 105, 0);
+    color: black;
+    opacity: 100%;
+}
